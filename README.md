@@ -1,4 +1,4 @@
-# Diseño de nueva experiencia en empresas de buses
+# Empire Bus: nueva experiencia en empresas de buses
 ## Descripción
 Propuesta para sitio (responsive), que tiene venta de pasajes (una vez comprados serán confirmados vía email o SMS), comparación de precios, la posibilidad de cambio o anulación de los pasajes (telefónicamente o de manera online). 
 Los usuarios se podrán registrar para tener una serie de beneficios y la posibilidad de comentar y evaluar el servicio. 
