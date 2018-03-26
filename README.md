@@ -102,7 +102,7 @@ UX design se basa en la investigación de lo que los usuarios necesitan, por ell
 ![fotos-proceso](https://user-images.githubusercontent.com/32280840/37893730-506fc04e-30b2-11e8-9748-d885af6ec11c.jpg)
 
 
-## Ver más en mi [Portafolio](https://jotavasquez.github.io/portafolio-j/)
+## Ver más en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
