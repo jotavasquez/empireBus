@@ -6,8 +6,13 @@ A la par uso de totem en el sector de andenes en el terminal de buses que pueda 
 
 ![empirebus](https://user-images.githubusercontent.com/32280840/37886825-2981cec8-3094-11e8-957c-57015f4a7a72.jpg)
 
-### Ver más detalles en mi portafolio:
-[Portafolio](https://jotavasquez.github.io/portafolio-j/)
+### Problemática
+La compra de pasajes de buses es una experiencia compleja para los usuarios que quieren comprar un pasaje de bus, existiendo en la actualidad plataformas digitales que se han enfocado en mejorar la experiencia a través de lo digital, se organizó un equipo para investigar la problemática y proponer nuevas soluciones de diseño.
+
+### Proceso
+El equipo
+
+##### Ver más detalles en mi [Portafolio](https://jotavasquez.github.io/portafolio-j/)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
