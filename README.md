@@ -6,6 +6,9 @@ Además el uso de un totem en el sector de andenes en el terminal de buses que p
 
 ![empirebus](https://user-images.githubusercontent.com/32280840/37886825-2981cec8-3094-11e8-957c-57015f4a7a72.jpg)
 
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
 ### Problemática
 La compra de pasajes de buses es una experiencia compleja para los usuarios que quieren comprar un pasaje de bus, existiendo en la actualidad plataformas digitales que se han enfocado en mejorar la experiencia a través de lo digital, nos se organizamos en equipo para investigar la problemática y proponer nuevas soluciones de diseño.
 
@@ -102,8 +105,7 @@ UX design se basa en la investigación de lo que los usuarios necesitan, por ell
 ![fotos-proceso](https://user-images.githubusercontent.com/32280840/37893730-506fc04e-30b2-11e8-9748-d885af6ec11c.jpg)
 
 
-## Ver más en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
+### Ver más en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
 
-## Desarrollado para 
-[Laboratoria](http://laboratoria.la)
+
 
