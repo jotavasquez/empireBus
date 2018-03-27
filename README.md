@@ -4,7 +4,7 @@ Propuesta para sitio (responsive), que tiene venta de pasajes (una vez comprados
 Los usuarios se podrán registrar para tener una serie de beneficios y la posibilidad de comentar y evaluar el servicio.
 Además el uso de un totem en el sector de andenes en el terminal de buses que pueda dar orientación sobre la ubicación y llegada de buses, horarios de salidas y llegadas, e información acerca del pasaje comprado por el usuario.
 ![empirebus](https://user-images.githubusercontent.com/32280840/37886825-2981cec8-3094-11e8-957c-57015f4a7a72.jpg)
-## Desarrollado para 
+## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
 ### Problemática
