@@ -3,9 +3,7 @@
 Propuesta para sitio (responsive), que tiene venta de pasajes (una vez comprados serán confirmados vía email o SMS), comparación de precios, la posibilidad de cambio o anulación de los pasajes (telefónicamente o de manera online).
 Los usuarios se podrán registrar para tener una serie de beneficios y la posibilidad de comentar y evaluar el servicio.
 Además el uso de un totem en el sector de andenes en el terminal de buses que pueda dar orientación sobre la ubicación y llegada de buses, horarios de salidas y llegadas, e información acerca del pasaje comprado por el usuario.
-
 ![empirebus](https://user-images.githubusercontent.com/32280840/37886825-2981cec8-3094-11e8-957c-57015f4a7a72.jpg)
-
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
 
@@ -46,7 +44,6 @@ Luego tomanos los usuarios más representativos con los datos de nuestra investi
 Con los resultados obtenidos, hicimos un ejercicio en equipo de Problem Statement, HWM, y What If. Resolvimos enfocarnos en el usuario que más exigencias requería al momento de comprar pasajes de buses y con más posibilidades de resolver a través de una solución digital, en este caso *Sergio Guerra.*
 concluimos desarrollar una plataforma de venta de pasajes online web Sitio web para comprar en cualquier momento y lugar donde se pueda acceder a toda la información de pasajes disponibles por distintas compañías. Este sitio web estaría complementado con un totem localizado en los andenes que entregara información de los buses que entran y salen, su correpondiente viaje, e información del pasaje.
 
-
 #### Ideación y validación
 A continucación comenzamos el proceso de diseño, para enriquecer la solución, propusimos en forma separa nuestros scketches, realizando luego una votación silenciosa de la cual desarrollamos nuestra idea inicial del proyecto.
 
@@ -80,12 +77,10 @@ Testeamos nuestro wireframe en alta resolución mediante guerrilla testing en el
 - Login de perfil de usuario con listado de viajes realizados y pendientes.
 - Opción de Anular o reagendar pasajes desde la web.
 
-
 ### Aprendizajes
 UX design se basa en la investigación de lo que los usuarios necesitan, por ello aprendimos que es bueno trabajar en equipo para poder realiza productos diseñados desde varias perspectivas que se adapten a la mayor cantidad de usuarios. Es importante no dejarse enamorar por una idea y tomar desiciones en beneficio del proyecto. 
 
 ##### Detalle de actividades realizadas:
-
 - Benchmark (10% participación)
 - Reclamos de usuarios.
 - Observaciones en el terminal (todo el equipo)
@@ -103,9 +98,4 @@ UX design se basa en la investigación de lo que los usuarios necesitan, por ell
 - Testeo wireframe sitio web y totem(50% participación mediante Lookback).
 
 ![fotos-proceso](https://user-images.githubusercontent.com/32280840/37893730-506fc04e-30b2-11e8-9748-d885af6ec11c.jpg)
-
-
 ### Ver más en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
-
-
-
