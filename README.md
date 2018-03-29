@@ -8,7 +8,6 @@ Además el uso de un totem en el sector de andenes en el terminal de buses que p
 [Laboratoria](http://laboratoria.la)
 
 ### Problemática
-![image](https://user-images.githubusercontent.com/32280840/37886825-2981cec8-3094-11e8-957c-57015f4a7a72.jpg)
 La compra de pasajes de buses es una experiencia compleja para los usuarios que quieren comprar un pasaje de bus, existiendo en la actualidad plataformas digitales que se han enfocado en mejorar la experiencia a través de lo digital, nos organizamos en equipo para investigar la problemática y proponer nuevas soluciones de diseño.
 
 ### Proceso
@@ -56,6 +55,7 @@ Definidos nuestras ideas en conjunto, comenzamos a realizar un wireframe de baja
 ![empire_flujo](https://user-images.githubusercontent.com/32280840/37890206-13279970-30a6-11e8-87a1-cb22b0fc3dfb.png)
 
 ##### Wireframes alta fidelidad
+![empirebus1](https://user-images.githubusercontent.com/32280840/38068349-20ed9102-32e7-11e8-91b6-589b126b8d34.jpg)
 Testeamos nuestro wireframe en alta resolución mediante guerrilla testing en el terminal de buses de San Borja, luego iteramos a una segunda versión con algunos aspectos mejorados:
 
 [WIREFRAME TOTEM V.1 MARVEL APP](https://marvelapp.com/36ef2b0)
