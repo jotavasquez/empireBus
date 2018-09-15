@@ -67,12 +67,12 @@ Testeamos nuestro wireframe en alta resolución mediante guerrilla testing en el
 - Elegir pasajes.
 - Login para ser socio preferencial.
 
-[WIREFRAME TOTEM V.2 MARVEL APP](https://marvelapp.com/7h7a14h)
+WIREFRAME TOTEM V.2 MARVEL APP
 - Totem con opción idioma ingles.
 - Diseño de pasaje impreso por el totem y mejoras en la información que muestra(mapa de ánden, horario de viajes).
 - Mejoras en la entrega de información en general.
 
-[WIREFRAME WEB V.2 MARVEL APP](https://marvelapp.com/7h7a14h/screen/38131000)
+WIREFRAME WEB V.2 MARVEL APP
 - Mejoras en la entrega de información en general.
 - Opción de calificar el viaje realizado según estándares como calidad del bus, atención del chofer, cumplimiento de horarios de los viajes.
 - Login de perfil de usuario con listado de viajes realizados y pendientes.
